@@ -9,7 +9,7 @@
 <title>SimpleBBS 게시판 리스트</title>
 </head>
 <body>
-	<h2>SimpleBBS 게시판 리스트</h2>
+	<h2>SimpleBBS 게시판 리스트1</h2>
 	<table width="500" cellpadding="0" cellspacing="0" border="1">
 		<tr>
 			<td>번호</td>
